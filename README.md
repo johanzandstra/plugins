@@ -41,4 +41,5 @@ Package | Developer | Description
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
+[Redirect urls](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Provides an easy way to enter and maintain 301 and 302 redirects. Provides a clear user interface for admin's and users
 
