@@ -33,6 +33,7 @@ Package | Developer | Description
 [Rackspace](https://github.com/craftcms/rackspace) | Pixel & Tonic | Rackspace Cloud Files volume type
 [Rich Variables](https://github.com/nystudio107/craft3-richvariables) | nystudio107 | Allows you to easily use Craft Globals as variables in Rich Text fields
 [Recipe](https://github.com/nystudio107/craft3-recipe) | nystudio107 | A comprehensive recipe FieldType for Craft CMS that includes metric/imperial conversion, portion calculation, and JSON-LD microdata support
+[Redirect](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Provides an easy way to enter and maintain 301 and 302 redirects. Provides a clear user interface for admin's and users
 [Snitch](https://github.com/marionnewlevant/craft3-snitch) | Marion Newlevant | Report when two people might be editing the same entry
 [Sprout Notes](https://github.com/barrelstrength/sproutnotes) | Barrel Strength Design | Sometimes you need to write a note!
 [Store Hours](https://github.com/craftcms/store-hours) | Pixel & Tonic | Adds a “Store Hours” field type to Craft for collecting business opening and closing hours.
@@ -41,5 +42,4 @@ Package | Developer | Description
 [Twig Perversion](https://github.com/marionnewlevant/craft3-twig_perversion) | Marion Newlevant | Making Twig do things it really shouldn't. Break, continue, and return tags
 [Twitter](https://github.com/dukt/twitter) | Dukt | Tweet field, search widget, embeds, and authenticated Twitter API requests for Craft CMS.
 [Walk](https://github.com/TopShelfCraft/Craft3-Walk) | Top Shelf Craft | A Craft-aware `array_walk` method w/ handy console commands for bulk actions
-[Redirect urls](https://github.com/Dolphiq/craft3-plugin-redirect) | Dolphiq | Provides an easy way to enter and maintain 301 and 302 redirects. Provides a clear user interface for admin's and users
 
